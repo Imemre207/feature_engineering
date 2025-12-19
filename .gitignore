@@ -1,0 +1,19 @@
+# --- Jupyter Notebook Yedekleri ---
+.ipynb_checkpoints/
+
+# --- Büyük Veri Klasörü (Ses dosyaları burada) ---
+# Bu satır, içindeki fold1, fold2... klasörlerini komple engeller
+archive/
+
+# --- Sıkıştırılmış Dosyalar ---
+*.zip
+archive.zip
+*.wav
+*.mp3
+
+# --- Veri Seti ve Çıktı Dosyaları (CSV) ---
+# Veri setini ve oluşturduğun özellik dosyasını github'a atmana gerek yok
+UrbanSound8K.csv
+X_features.csv
+
+
